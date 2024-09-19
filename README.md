@@ -47,7 +47,9 @@
 - Has documentation
 
 ## Examples
-
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="video/track.mkv" type="video/mkv">
+</video>
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
 - [billmei.net](https://billmei.net/)
