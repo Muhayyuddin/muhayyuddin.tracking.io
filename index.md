@@ -13,11 +13,10 @@ This study explores the use of vision trackers for harsh maritime applications w
 ## Tracking results 
 
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://www.youtube.com/watch?v=keKK6DqOssA" type="video/mp4">
+<source src="https://github.com/Muhayyuddin/tracking/raw/main/video/trac.mp4" type="video/mp4">
 </video>
 -Add some videos and gif of tracking
 -add some plots of controller
-
 ## Tracking Framework
 
 Add the image of the tracking framework with a short description.
