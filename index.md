@@ -12,7 +12,9 @@ This study explores the use of vision trackers for harsh maritime applications w
 
 ## Tracking results 
 <video src="video/track.mp4" width="320" height="240" controls></video>
-
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="video/track.mp4" type="video/mp4">
+</video>
 -Add some videos and gif of tracking
 -add some plots of controller
 
