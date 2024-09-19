@@ -11,10 +11,9 @@ This study explores the use of vision trackers for harsh maritime applications w
 {% include button.html text="GitHub" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Arxiv" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="FAQs" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} 
 
 ## Tracking results 
-<iframe  width="800" height="500" src="video/trac.mp4" frameborder="0" allowfullscreen></iframe>
 
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="video/trac.mp4" type="video/mp4">
+<source src="video/[trac.mp4](https://www.youtube.com/watch?v=keKK6DqOssA)" type="video/mp4">
 </video>
 -Add some videos and gif of tracking
 -add some plots of controller
