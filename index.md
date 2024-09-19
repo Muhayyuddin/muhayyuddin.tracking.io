@@ -32,7 +32,9 @@ Add the image of the tracking framework with a short description.
 ## Abstract
 
 ## Controllers 
-
+<div style="text-align: center;">
+  <img src="assets/images/yaw_error_animation.gif" alt="Yaw Error Simulation" />
+</div>
 
 ## FAQs
 -Q1- Why we choose these trackers 
