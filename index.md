@@ -26,7 +26,9 @@ This study explores the use of vision trackers for harsh maritime applications w
 -Add some videos and gif of tracking
 -add some plots of controller
 ## Tracking Framework
-
+<div style="text-align: center;">
+  <img src="assets/framework-1" alt="framework" />
+</div>
 Add the image of the tracking framework with a short description.
 
 - [bawejakunal.github.io](https://bawejakunal.github.io/)
