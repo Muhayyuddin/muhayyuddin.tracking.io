@@ -27,7 +27,7 @@ This study explores the use of vision trackers for harsh maritime applications w
 -add some plots of controller
 ## Tracking Framework
 <div style="text-align: center;">
-  <img src="assets/framework-1" alt="framework" />
+  <img src="assets/framework-1.png" alt="framework" />
 </div>
 Add the image of the tracking framework with a short description.
 
@@ -40,7 +40,7 @@ Add the image of the tracking framework with a short description.
 
 ## Controllers 
 <div style="text-align: center;">
-  <img src="assets/yaw_error_animation.png" alt="Yaw Error Simulation" />
+  <img src="assets/yaw_error_animation.gif" alt="Yaw Error Simulation" />
 </div>
 
 ## FAQs
