@@ -1,7 +1,8 @@
 ---
 title: Overview
-feature_text:Vision-guided USV tracking in the Maritime environment
-</div>feature_image: "assets/scaled_USV_m.png"
+feature_text: |
+    Vision-guided USV tracking in Maritime environment
+feature_image: "assets/scaled_USV_m.png"
 excerpt: Vision-guided USV tracking in the Maritime environment
 ---
 
