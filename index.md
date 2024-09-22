@@ -11,7 +11,7 @@ excerpt: Here we will add the description of the paper
 
 <div style="text-align: center;">
   {% include button.html text="GitHub" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
-  {% include button.html text="Arxiv" icon="arxiv" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %}
+  {% include button.html text="Arxiv" icon="assets/arxiv.png" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %}
   {% include button.html text="FAQs" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 </div>
 ### Tracking results 
