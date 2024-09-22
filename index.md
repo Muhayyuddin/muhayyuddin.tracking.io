@@ -18,7 +18,7 @@ excerpt: Vision-guided USV tracking in the Maritime environment
 ## Tracking results 
 
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/Muhayyuddin/tracking/raw/main/video/trac.mp4" type="video/mp4">
+<source src="https://github.com/Muhayyuddin/tracking/raw/main/video/tracking.mp4" type="video/mp4">
 </video>
 
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
