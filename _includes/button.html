@@ -1,1 +1,11 @@
-<a class="button" href="{{ include.link | default: '#' }}"{% if include.color %} style="background: {{ include.color }}"{% endif %}>{{ include.text | default: "Button" }}{% if include.icon %}&nbsp; {% include icon.html id=include.icon title=include.icon %}{% endif %}</a>
+<a class="button" href="{{ include.link | default: '#' }}"{% if include.color %} style="background: {{ include.color }}"{% endif %}>
+    {{ include.text | default: "Button" }}
+    {% if include.icon %}
+        &nbsp;
+        {% if include.icon contains ".png" or include.icon contains ".jpg" or include.icon contains ".svg" %}
+            <img src="{{ include.icon }}" alt="{{ include.text }}" style="height: 20px; vertical-align: middle; margin-left: 5px;">
+        {% else %}
+            {% include icon.html id=include.icon title=include.icon %}
+        {% endif %}
+    {% endif %}
+</a>
