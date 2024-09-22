@@ -4,7 +4,7 @@ feature_text: |
     <div style="transform: translateY(-50%); color: white; font-weight: bold; font-size: 24px;">
         Vision-guided USV tracking in the Maritime environment
     </div>
-feature_image: "assets/scaled_USV_m.png"
+feature_image: "assets/testbanner.png"
 excerpt: Here we will add the description of the paper
 ---
 
@@ -16,7 +16,7 @@ excerpt: Here we will add the description of the paper
 </div>
 ### Tracking results 
 
-<video controls="" width="500" height="400" muted="" loop="" autoplay="">
+<video controls="" width="500" height="300" muted="" loop="" autoplay="">
 <source src="https://github.com/Muhayyuddin/tracking/raw/main/video/tracking.mp4" type="video/mp4">
 </video>
 
