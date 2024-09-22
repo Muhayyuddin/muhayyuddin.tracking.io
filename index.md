@@ -1,9 +1,12 @@
 ---
 title: Overview
-feature_image: "assets/scaled_USV_m.png"
-excerpt: Vision-guided USV tracking in the Maritime environment
+feature_text: |
+    <div style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; font-size: 24px;">
+        Vision-guided USV tracking in the Maritime environment
+    </div>
+feature_image: "https://picsum.photos/1300/400?image=989"
+excerpt: Here we will add the description of the paper
 ---
-
 <div style="position: relative; text-align: center;">
     <img src="assets/scaled_USV_m.png" alt="USV in Maritime Environment" style="width: 100%;">
 
