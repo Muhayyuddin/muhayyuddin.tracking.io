@@ -4,7 +4,7 @@ feature_text: |
     <div style="transform: translateY(-50%); color: white; font-weight: bold; font-size: 24px;">
         Vision-guided USV tracking in the Maritime environment
     </div>
-feature_image: "assets/testbanner.png"
+feature_image: "assets/seabanner.jpg"
 excerpt: Here we will add the description of the paper
 ---
 
