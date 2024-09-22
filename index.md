@@ -1,11 +1,10 @@
 ---
 title: 
 feature_text: |
-    <div style="position: relative; text-align: center;">
     <div style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; font-size: 24px;">
         Vision-guided USV tracking in the Maritime environment
     </div>
-    </div>
+    
 feature_image: "assets/scaled_USV_m.png"
 excerpt: Here we will add the description of the paper
 ---
