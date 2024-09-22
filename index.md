@@ -1,11 +1,16 @@
 ---
 title: Overview
-feature_text: |
-    Vision-guided USV tracking in Maritime environment
 feature_image: "assets/scaled_USV_m.png"
 excerpt: Vision-guided USV tracking in the Maritime environment
 ---
 
+<div style="position: relative; text-align: center;">
+    <img src="assets/scaled_USV_m.png" alt="USV in Maritime Environment" style="width: 100%;">
+
+    <div style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); color: white; font-weight: bold; font-size: 24px;">
+        Vision-guided USV tracking in the Maritime environment
+    </div>
+</div>
 
 <div style="text-align: center;">
   {% include button.html text="GitHub" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
