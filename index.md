@@ -10,10 +10,19 @@ excerpt: Here we will add the description of the paper
 
 
 <div style="text-align: center;">
+    <a href="{{ include.link }}" class="btn" style="background-color: {{ include.color }};">
+    {% if include.img %}
+        <img src="{{ include.icon }}" alt="{{ include.text }}" style="height: 20px; vertical-align: middle; margin-right: 5px;">
+    {% else %}
+        <i class="fa fa-{{ include.icon }}"></i>
+    {% endif %}
+    {{ include.text }}
+</a>
   {% include button.html text="GitHub" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
   {% include button.html text="Preprint" icon="assets/arxiv.png" link="https://arxiv.org/" color="#f68140" %}
   {% include button.html text="FAQs" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 </div>
+
 ### Tracking results 
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
