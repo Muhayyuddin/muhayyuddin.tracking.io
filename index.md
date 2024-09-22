@@ -2,7 +2,7 @@
 title: Overview
 feature_text: |
     Vision-guided USV tracking in the Maritime environment
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "assets/scaled_US.png"
 excerpt: Vision-guided USV tracking in the Maritime environment
 ---
 <div style="text-align: center;">
