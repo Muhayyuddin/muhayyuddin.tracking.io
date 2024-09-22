@@ -3,7 +3,7 @@ title: Overview
 feature_text: |
     Vision-guided USV tracking in the Maritime environment
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: Here we will add the description of the paper
+excerpt: Vision-guided USV tracking in the Maritime environment
 ---
 <div style="text-align: center;">
   {% include button.html text="GitHub" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
