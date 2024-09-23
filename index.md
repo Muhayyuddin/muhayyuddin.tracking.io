@@ -25,9 +25,6 @@ excerpt: Here we will add the description of the paper
 <source src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/circle.mp4" type="video/mp4">
 </video>
 
-<video controls="" width="500" height="300" muted="" loop="" autoplay="">
-<source src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/usv.mp4" type="video/mp4">
-</video>
 
 <video controls="" width="500" height="500" muted="" loop="" autoplay="">
 <source src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/trackers.mp4" type="video/mp4">
