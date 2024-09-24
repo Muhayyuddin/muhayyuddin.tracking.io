@@ -1,9 +1,4 @@
----
-title: 
-feature_text: |
-feature_image: "assets/scaled_USV_m.png"
-excerpt: Here we will add the description of the paper
----
+
 <div style="text-align: center; font-size: 24px; margin-bottom: 10px; font-weight: bold; line-height: 1.4;">
         Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments
 </div>
