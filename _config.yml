@@ -122,12 +122,16 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /index.md
+  url: "https://muhayyuddin.github.io/tracking/"
 - title: Paper
   url: https://arxiv.org/
 - title: Github
   url: "https://github.com/Muhayyuddin/vision-tracking" 
-
+- title: Github
+  url: "https://github.com/Muhayyuddin/vision-tracking" 
+  - title: FAQs
+  url: "https://muhayyuddin.github.io/tracking/#faqs" 
+  
 navigation_footer:
 - title: Created by Muhayy UD Din
   url: https://darn.es
