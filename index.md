@@ -16,7 +16,7 @@ excerpt: Here we will add the description of the paper
   {% include button.html text="FAQs" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 </div>
 
-#### Tracking results 
+<h1>Tracking results</h1> 
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
 <source src="https://github.com/Muhayyuddin/tracking/raw/main/video/tracking.mp4" type="video/mp4">
@@ -31,23 +31,23 @@ Trackers performance
 <source src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/trackers.mp4" type="video/mp4">
 </video>
 
-### Overview
+<h1> Overview </h1>
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
     Vision-based target detection and tracking are crucial for Unmanned Surface Vehicles (USVs) to perform tasks such as inspection, monitoring, and surveillance. However, real-time tracking in complex maritime environments is challenging due to factors such as dynamic camera movement and changing sea conditions. Traditional object detection methods combined with filtering techniques are commonly used for tracking, but they often lack robustness, particularly in the face of camera motion and missed detections. Although advanced tracking methods have been proposed recently, their application in real-time maritime scenarios remains limited. To address this gap, this study proposes a vision-guided object tracking framework for USVs, integrating state-of-the-art tracking algorithms with low-level control systems to enable precise tracking in dynamic maritime environments. We benchmarked the performance of five distinct trackers, developed using advanced deep learning techniques such as Convolutional Neural Networks (CNNs) and Transformers, by evaluating them on both simulated and real-world maritime datasets. In addition, we evaluated the robustness of various control algorithms in conjunction with these tracking systems. The proposed framework was validated through simulations and real-world sea trials, demonstrating its effectiveness in handling dynamic maritime conditions.
 </div>
-### Tracking Framework
+<h1>Tracking Framework</h1>
 <div style="text-align: center;">
   <img src="assets/framework-1.png" alt="framework" />
 </div>
 Add the image of the tracking framework with a short description.
 
 
-### Controllers 
+<h1>Controllers</h1> 
 <div style="text-align: center;">
   <img src="assets/yaw_error_animation.gif" alt="Yaw Error Simulation" />
 </div>
 
-### FAQs
+<h1>FAQs</h1> 
 -Q1- Why we choose these trackers 
 -Q2- Why we choose these particular COntrollers 
 -Q3- What is the benefit of this research work
