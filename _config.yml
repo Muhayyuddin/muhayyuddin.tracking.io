@@ -127,6 +127,8 @@ navigation_header:
   url: https://arxiv.org/
 - title: Github
   url: "https://github.com/Muhayyuddin/vision-tracking" 
+- title: Framework
+  url: "https://muhayyuddin.github.io/tracking/#framework" 
 - title: FAQs
   url: "https://muhayyuddin.github.io/tracking/#faqs" 
   
