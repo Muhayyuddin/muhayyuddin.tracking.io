@@ -81,6 +81,14 @@ the USV’s thrusters, enabling precise target tracking.
 
 <h5 id="faqs" style="margin-bottom: 10px;">FAQs</h5>
 <h8>Q1- Why we choose these trackers?</h8> 
+<div style="text-align: justify; font-size: 14px; line-height: 1.4;">
 We selected these six tracker named as, SiamFC, ATOM, DiMP, ToMP, SeqTrack, and TaMOs because they represent a range of state-of-the-art methods, from convolutional neural networks and correlation filters to advanced transformer-based models. Each tracker was chosen for its unique strengths in handling challenges like occlusion, motion blur, and dynamic background changes, which are essential for a significant performance in complex maritime environments.
+</div>
 <h8>Q2- Why we choose these particular Controllers?</h8> 
+<div style="text-align: justify; font-size: 14px; line-height: 1.4;">
+Each controller has its strengths depending on the complexity of the environment and system dynamics. We chose these controllers to capitalize on the diversity in their approaches: PID for its simplicity and ease of tuning, SMC for its robustness in handling disturbances and uncertainties, and LQR for its optimal control and smooth performance in dynamic and energy-efficient operations.
+</div>
 <h8>Q3- What is the benefit of this research work?</h8>
+<div style="text-align: justify; font-size: 14px; line-height: 1.4;">
+The benefit of this research lies in its development of a robust vision-based tracking framework tailored for Unmanned Surface Vehicles (USVs) in complex maritime environments. By integrating state-of-the-art tracking algorithms, such as Siamese Networks and Transformers, with low-level control systems, the research addresses challenges like dynamic camera movement, low visibility, and missed detections that are common in real-world sea conditions. 
+</div>
