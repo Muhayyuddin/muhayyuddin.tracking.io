@@ -4,7 +4,7 @@ feature_text: |
 feature_image: "assets/scaled_USV_m.png"
 excerpt: Here we will add the description of the paper
 ---
-    <div style="transform: translateY(-50%); color: white; font-weight: bold; font-size: 24px;">
+    <div style="text-align: justify; font-size: 24px; line-height: 1.4;">
         Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments
     </div>
 <div style="text-align: justify; font-size: 18px; line-height: 1.4;">
