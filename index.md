@@ -81,6 +81,7 @@ the USV’s thrusters, enabling precise target tracking.
 
 <h5 id="faqs" style="margin-bottom: 10px;">FAQs</h5>
 
--Q1- Why we choose these trackers 
--Q2- Why we choose these particular COntrollers 
--Q3- What is the benefit of this research work
+<h8>Q1- Why we choose these trackers?</h8> 
+We selected these six tracker named as, SiamFC, ATOM, DiMP, ToMP, SeqTrack, and TaMOs because they represent a range of state-of-the-art methods, from convolutional neural networks and correlation filters to advanced transformer-based models. Each tracker was chosen for its unique strengths in handling challenges like occlusion, motion blur, and dynamic background changes, which are essential for a significant performance in complex maritime environments.
+<h8>Q2- Why we choose these particular Controllers?</h8> 
+<h8>Q3- What is the benefit of this research work?</h8>
