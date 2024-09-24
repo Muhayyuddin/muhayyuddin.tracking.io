@@ -1,14 +1,15 @@
 ---
 title: 
 feature_text: |
-    <div style="transform: translateY(-50%); color: white; font-weight: bold; font-size: 24px;">
-        Vision-guided USV tracking in the Maritime environment
-    </div>
-feature_image: "assets/seabanner.jpg"
+feature_image: "assets/scaled_USV_m.png"
 excerpt: Here we will add the description of the paper
 ---
-
-
+    <div style="transform: translateY(-50%); color: white; font-weight: bold; font-size: 24px;">
+        Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments
+    </div>
+<div style="text-align: justify; font-size: 18px; line-height: 1.4;">
+    Muhayy Ud Din, Ahsan B. Bakht, Waseem Akram, Lakmal Seneviratne, and Irfan Hussain
+</div>
 <div style="text-align: center;">
   {% include button.html text="GitHub" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %}
   {% include button.html text="Preprint" icon="assets/arxiv.png" link="https://arxiv.org/" color="#f68140" %}
