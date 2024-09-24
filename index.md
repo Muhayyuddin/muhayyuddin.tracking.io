@@ -4,10 +4,10 @@ feature_text: |
 feature_image: "assets/scaled_USV_m.png"
 excerpt: Here we will add the description of the paper
 ---
-    <div style="text-align: justify; font-size: 24px; line-height: 1.4;">
+<div style="text-align: center; font-size: 24px; line-height: 1.4;">
         Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments
-    </div>
-<div style="text-align: justify; font-size: 18px; line-height: 1.4;">
+</div>
+<div style="text-align: center; font-size: 18px; line-height: 1.4;">
     Muhayy Ud Din, Ahsan B. Bakht, Waseem Akram, Lakmal Seneviratne, and Irfan Hussain
 </div>
 <div style="text-align: center;">
