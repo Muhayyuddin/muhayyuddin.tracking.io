@@ -53,7 +53,7 @@ allowing for stable tracking of the USV.
   <img src="assets/Combined_Real.png" alt="framework" />
 </div>
 
-<h5 style="margin-bottom: 10px;">Tracking Framework</h5>
+<h5 id="framework" style="margin-bottom: 10px;">Tracking Framework</h5>
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
 We proposed a vision-guided object tracking framework for USVs, integrating state-of-the-art tracking
 algorithms with low-level control systems to enable precise tracking in dynamic maritime environments. The framework is composed of three main modules: the Perception
