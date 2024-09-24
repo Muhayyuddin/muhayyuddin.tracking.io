@@ -1,4 +1,5 @@
-<a class="button" href="{{ include.link | default: '#' }}"{% if include.color %} style="background: {{ include.color }}"{% endif %}>
+<a class="button" href="{{ include.link | default: '#' }}"
+   style="height: 80%; width: 90%; {% if include.color %} background: {{ include.color }};{% endif %}">
     {{ include.text | default: "Button" }}
     {% if include.icon %}
         &nbsp;
