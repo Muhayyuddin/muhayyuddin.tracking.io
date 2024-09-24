@@ -12,7 +12,22 @@
 </div>
 <h5 style="margin-bottom: 10px;"> Overview </h5>
 <div style="text-align: justify; font-size: 14px; margin-bottom: 10px; line-height: 1.4;">
-    Vision-based target detection and tracking are crucial for Unmanned Surface Vehicles (USVs) to perform tasks such as inspection, monitoring, and surveillance. However, real-time tracking in complex maritime environments is challenging due to factors such as dynamic camera movement and changing sea conditions. Traditional object detection methods combined with filtering techniques are commonly used for tracking, but they often lack robustness, particularly in the face of camera motion and missed detections. Although advanced tracking methods have been proposed recently, their application in real-time maritime scenarios remains limited. To address this gap, this study proposes a vision-guided object tracking framework for USVs, integrating state-of-the-art tracking algorithms with low-level control systems to enable precise tracking in dynamic maritime environments. We benchmarked the performance of five distinct trackers, developed using advanced deep learning techniques such as Convolutional Neural Networks (CNNs) and Transformers, by evaluating them on both simulated and real-world maritime datasets. In addition, we evaluated the robustness of various control algorithms in conjunction with these tracking systems. The proposed framework was validated through simulations and real-world sea trials, demonstrating its effectiveness in handling dynamic maritime conditions.
+   Vision-based target tracking is crucial for unmanned surface vehicles to perform tasks such as
+inspection, monitoring, and surveillance. However, real-time tracking in complex maritime environments is
+challenging due to dynamic camera movement, low visibility, and scale variation. Typically, object detection
+methods combined with filtering techniques are commonly used for tracking, but they often lack robustness,
+particularly in the presence of camera motion and missed detections. Although advanced tracking methods
+have been proposed recently, their application in maritime scenarios is limited. To address this gap, this
+study proposes a vision-guided object tracking framework for USVs, integrating state-of-the-art tracking
+algorithms with low-level control systems to enable precise tracking in dynamic maritime environments.
+We benchmarked the performance of seven distinct trackers, developed using advanced deep learning
+techniques such as Siames Networks and Transformers, by evaluating them on both simulated and real-world
+maritime datasets. In addition, we evaluated the robustness of various control algorithms in conjunction
+with these tracking systems. The proposed framework was validated through simulations and real-world sea
+experiments, demonstrating its effectiveness in handling dynamic maritime conditions. The results show that
+SeqTrack, a Transformer-based tracker, performed best in adverse conditions, such as dust storms. Among
+the control algorithms evaluated, the LQR controller demonstrated the most robust and smooth control,
+allowing for stable tracking of the USV.
 </div>
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 
