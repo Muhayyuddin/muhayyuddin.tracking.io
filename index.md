@@ -24,7 +24,7 @@
 <source src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/circle.mp4" type="video/mp4">
 </video>
 
-<h style="margin-bottom: 5px;">Trackers performance</h6>
+<h6 style="margin-bottom: 5px;">Trackers performance</h6>
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
     We evaluated the performance of the trackers under varying conditions, including clear sea environments and dust storms. The results are showcased in the videos below."
 </div>
@@ -40,7 +40,10 @@
 Add the image of the tracking framework with a short description.
 
 
-<h5 style="margin-bottom: 10px;">Controllers</h5> 
+<h5 style="margin-bottom: 10px;">Controller Tunning and Performance</h5>
+<div style="text-align: justify; font-size: 14px; line-height: 1.4;">
+    The animation below illustrates how different controllers work to minimize yaw error over time.
+</div>
 <div style="text-align: center;">
   <img src="assets/yaw_error_animation.gif" alt="Yaw Error Simulation" />
 </div>
