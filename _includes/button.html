@@ -1,10 +1,10 @@
 <a class="button" href="{{ include.link | default: '#' }}"
-   style="height: 80%; width: 90%; {% if include.color %} background: {{ include.color }};{% endif %}">
+   style="display: inline-block; padding: 8px 18px; {% if include.color %} background: {{ include.color }};{% endif %}">
     {{ include.text | default: "Button" }}
     {% if include.icon %}
         &nbsp;
         {% if include.icon contains ".png" or include.icon contains ".jpg" or include.icon contains ".svg" %}
-            <img src="{{ include.icon }}" alt="{{ include.text }}" style="height: 20px; vertical-align: middle; margin-left: 5px;">
+            <img src="{{ include.icon }}" alt="{{ include.text }}" style="height: 16px; vertical-align: middle; margin-left: 5px;">
         {% else %}
             {% include icon.html id=include.icon title=include.icon %}
         {% endif %}
