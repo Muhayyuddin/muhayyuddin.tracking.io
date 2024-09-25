@@ -48,7 +48,7 @@ allowing for stable tracking of the USV.
 </video>
 
 <div style="text-align: center;">
-  <img src="[assets/Combined_Real.png](https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/trackingsim.mp4)" type="video/mp4" />
+  <img src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/trackingsim.mp4" type="video/mp4" />
 </div>
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
     Trackers performance on real data.
