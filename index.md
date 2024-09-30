@@ -45,7 +45,8 @@ allowing for stable tracking of the USV.
     We evaluated the performance of the trackers under varying conditions, including clear sea environments and dust storms. The results are showcased in the videos below.
 </div>
 <video controls="" width="500" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/trackers.mp4" type="video/mp4">
+<source src="video/trackers.mp4" type="video/mp4">
+        
 </video>
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
 <source src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/trackingsim.mp4" type="video/mp4">
