@@ -31,13 +31,13 @@ the control algorithms evaluated, the LQR controller demonstrated the most robus
 allowing for stable tracking of the USV.
 </div>
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nt7EuF2b9zk?si=lc2XsuSy4EVmJMrN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
-        <source src="https://youtu.be/nt7EuF2b9zk" type="video/mp4">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nt7EuF2b9zk?si=lc2XsuSy4EVmJMrN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </video>
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
-<source src="https://kuacae-my.sharepoint.com/:v:/g/personal/muhayyuddin_ahmed_ku_ac_ae/EV2s3jnbIfxAmfgugZlbLv0B3w7IhDInbDMhyJuK7_PN8A?" type="video/mp4">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/02cuiZU8Cv8?si=sO3BlwNbJl9QBdCH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </video>
 
 <h6 style="margin-bottom: 5px;">Trackers performance</h6>
