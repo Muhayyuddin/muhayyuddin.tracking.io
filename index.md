@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-eval';">
 
 <div  id="home" style="text-align: center; font-size: 24px; margin-bottom: 10px; font-weight: bold; line-height: 1.4;">
         Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments
