@@ -31,6 +31,7 @@ the control algorithms evaluated, the LQR controller demonstrated the most robus
 allowing for stable tracking of the USV.
 </div>
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
+<iframe width="560" height="315" src="https://youtu.be/nt7EuF2b9zk" frameborder="0" allowfullscreen></iframe>
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
         <source src="https://youtu.be/nt7EuF2b9zk" type="video/mp4">
