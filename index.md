@@ -32,16 +32,21 @@ allowing for stable tracking of the USV.
 </div>
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 
-<iframe  width="500" height="300" src="https://www.youtube.com/embed/nt7EuF2b9zk?si=lc2XsuSy4EVmJMrN&loop=1&playlist=nt7EuF2b9zk" 
+<iframe  width="560" height="315" src="https://www.youtube.com/embed/nt7EuF2b9zk?si=lc2XsuSy4EVmJMrN&autoplay=1&loop=1&playlist=nt7EuF2b9zk" 
  title="USV Tracking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="500" height="300"  src="https://www.youtube.com/embed/02cuiZU8Cv8?loop=1&playlist=02cuiZU8Cv8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/02cuiZU8Cv8??autoplay=1&loop=1&playlist=02cuiZU8Cv8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h6 style="margin-bottom: 5px;">Trackers performance</h6>
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
     We evaluated the performance of the trackers under varying conditions, including clear sea environments and dust storms. The results are showcased in the videos below.
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6SRgelFJeew?si=DyfDl6cVN_t6hUrO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/6SRgelFJeew?autoplay=1&loop=1&playlist=6SRgelFJeew" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
 <source src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/trackingsim.mp4" type="video/mp4">
