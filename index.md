@@ -33,7 +33,7 @@ allowing for stable tracking of the USV.
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
-<source src="https://github.com/Muhayyuddin/tracking/raw/main/video/tracking.mp4" type="video/mp4">
+<source src="https://github.com/Muhayyuddin/tracking/raw/refs/heads/main/video/tracking.mp4" type="video/mp4">
 </video>
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
