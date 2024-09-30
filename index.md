@@ -33,7 +33,7 @@ allowing for stable tracking of the USV.
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
-<source src="https://kuacae-my.sharepoint.com/:v:/g/personal/muhayyuddin_ahmed_ku_ac_ae/EZfuYGIm0zdGjZiViREuBXMBoE50-UfkSI-G7GvBCrdG0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nighBQ" type="video/mp4">
+<source src="https://kudrive.ku.ac.ae/oc-shib/index.php/s/iseQPCf0vlce5Bv" type="video/mp4">
 </video>
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
