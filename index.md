@@ -33,11 +33,11 @@ allowing for stable tracking of the USV.
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
-        <source src="video/tracking.mp4" type="video/mp4">
+        <source src="https://youtu.be/nt7EuF2b9zk" type="video/mp4">
 </video>
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
-<source src="https://kuacae-my.sharepoint.com/:v:/g/personal/muhayyuddin_ahmed_ku_ac_ae/EV2s3jnbIfxAmfgugZlbLv0B3w7IhDInbDMhyJuK7_PN8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4lBs2m" type="video/mp4">
+<source src="https://kuacae-my.sharepoint.com/:v:/g/personal/muhayyuddin_ahmed_ku_ac_ae/EV2s3jnbIfxAmfgugZlbLv0B3w7IhDInbDMhyJuK7_PN8A?" type="video/mp4">
 </video>
 
 <h6 style="margin-bottom: 5px;">Trackers performance</h6>
