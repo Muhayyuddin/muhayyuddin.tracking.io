@@ -31,7 +31,7 @@ the control algorithms evaluated, the LQR controller demonstrated the most robus
 allowing for stable tracking of the USV.
 </div>
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
-<div style="justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
   <iframe width="560" height="315" 
           src="https://www.youtube.com/embed/nt7EuF2b9zk?autoplay=1&mute=1&loop=1&playlist=nt7EuF2b9zk" 
@@ -53,7 +53,7 @@ allowing for stable tracking of the USV.
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
     We evaluated the performance of the trackers under varying conditions, including clear sea environments and dust storms. The results are showcased in the videos below.
 </div>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; min-height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
   <iframe width="560" height="315" 
           src="https://www.youtube.com/embed/6SRgelFJeew?autoplay=1&mute=1&loop=1&playlist=6SRgelFJeew" 
