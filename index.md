@@ -32,13 +32,10 @@ allowing for stable tracking of the USV.
 </div>
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 
-<video controls="" width="500" height="300" muted="" loop="" autoplay="">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nt7EuF2b9zk?si=lc2XsuSy4EVmJMrN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</video>
+<iframe  width="500" height="300" src="https://www.youtube.com/embed/nt7EuF2b9zk?si=lc2XsuSy4EVmJMrN&loop=1&playlist=nt7EuF2b9zk" 
+ title="USV Tracking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<video controls="" width="500" height="300" muted="" loop="" autoplay="">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/02cuiZU8Cv8?si=sO3BlwNbJl9QBdCH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</video>
+<iframe width="500" height="300"  src="https://www.youtube.com/embed/02cuiZU8Cv8?loop=1&playlist=02cuiZU8Cv8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h6 style="margin-bottom: 5px;">Trackers performance</h6>
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
