@@ -53,15 +53,26 @@ allowing for stable tracking of the USV.
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
     We evaluated the performance of the trackers under varying conditions, including clear sea environments and dust storms. The results are showcased in the videos below.
 </div>
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/6SRgelFJeew?autoplay=1&loop=1&playlist=6SRgelFJeew" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-</iframe>
+# Additional Video Gallery
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MIL2nLxuRNs?si=DUxjlsa-OD_ATgfm&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-</iframe>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; min-height: 100vh;">
+
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/6SRgelFJeew?autoplay=1&loop=1&playlist=6SRgelFJeew" 
+          title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
+
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/MIL2nLxuRNs?autoplay=1&loop=1&playlist=MIL2nLxuRNs&controls=0" 
+          title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
+
+</div>
+
 
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
     Trackers performance on real data.
