@@ -33,7 +33,7 @@ allowing for stable tracking of the USV.
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
-<source src="https://kudrive.ku.ac.ae/oc-shib/remote.php/webdav/videos/tracking.mp4" type="video/mp4">
+<source src="https://kudrive.ku.ac.ae/oc-shib/index.php/s/iseQPCf0vlce5Bv" type="video/mp4">
 </video>
 
 <video controls="" width="500" height="300" muted="" loop="" autoplay="">
