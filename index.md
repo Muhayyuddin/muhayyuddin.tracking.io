@@ -33,14 +33,14 @@ allowing for stable tracking of the USV.
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
-  <iframe width="560" height="315" 
+  <iframe width="560" height="300" 
           src="https://www.youtube.com/embed/nt7EuF2b9zk?autoplay=1&mute=1&loop=1&playlist=nt7EuF2b9zk" 
           title="USV Tracking" frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
           referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
   </iframe>
 
-  <iframe width="560" height="315" 
+  <iframe width="560" height="300" 
           src="https://www.youtube.com/embed/02cuiZU8Cv8?autoplay=1&mute=1&loop=1&playlist=02cuiZU8Cv8" 
           title="YouTube video player" frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
